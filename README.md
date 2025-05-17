@@ -11,3 +11,5 @@ Frontend: HTML, CSS, JavaScript (optional Bootstrap for styling)
 Backend: PHP
 Database: MySQL
 Server: Apache (XAMPP or WAMP for local testing)
+
+Developed By: Arpit Kumar Maurya @imarpit13
